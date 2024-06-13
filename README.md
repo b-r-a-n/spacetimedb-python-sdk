@@ -14,7 +14,7 @@ This repository contains the [Python](https://python.org/) SDK for SpacetimeDB. 
 
 ## Documentation
 
-The Python SDK has a [Quick Start](https://spacetimedb.com/docs/client-languages/python/python-sdk-quickstart-guide) guide and a [Reference](https://spacetimedb.com/docs/client-languages/python/python-sdk-reference).
+The Python SDK has a [Quick Start](https://spacetimedb.com/docs/sdks/python/quickstart) guide and a [Reference](https://spacetimedb.com/docs/sdks/python).
 
 ## Installation
 
